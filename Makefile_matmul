@@ -1,2 +1,0 @@
-matmul_student.o: matmul_student.c matrix.h
-	gcc -Wall -Werror -Og -g -c matmul_student.c
